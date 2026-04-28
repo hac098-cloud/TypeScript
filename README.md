@@ -26,4 +26,3 @@ This is a simple TypeScript project that collects product events and displays ba
 ```bash
 npm install
 npm run dev
-http://localhost:5173/
